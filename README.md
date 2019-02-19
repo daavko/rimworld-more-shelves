@@ -26,9 +26,9 @@ If you want to remove this mod from an existing save, make sure to deconstruct a
 <br>
 <br>
 ## Links
-[Steam Workshop](https://steamcommunity.com/shar)\
-[Ludeon forums](https://ludeon.com/forums/index.php?topic=48080.0)\
-[Nexus mods](https://www.nexusmods.com/rimworld/mods/284)
+[Steam Workshop page](https://steamcommunity.com/shar)\
+[Ludeon forums post](https://ludeon.com/forums/index.php?topic=48080.0)\
+[Nexus mods page](https://www.nexusmods.com/rimworld/mods/284)
 <br>
 <br>
 ## Credits
