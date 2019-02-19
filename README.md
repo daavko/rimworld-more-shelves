@@ -25,5 +25,11 @@ It's safe to add this mod to an existing save without any problems.
 If you want to remove this mod from an existing save, make sure to deconstruct all 1x1, 3x1, and 4x1 shelves first.
 <br>
 <br>
+## Links
+[Steam Workshop](https://steamcommunity.com/shar)\
+[Ludeon forums](https://ludeon.com/forums/index.php?topic=48080.0)\
+[Nexus mods](https://www.nexusmods.com/rimworld/mods/284)
+<br>
+<br>
 ## Credits
 All textures included in this mod are derived from the vanilla shelf texture.
