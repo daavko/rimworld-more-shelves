@@ -36,7 +36,6 @@
         <priority>Important</priority>
         <filter>
           <categories>
-            <li>Weapons</li>
           </categories>
         </filter>
       </defaultStorageSettings>
