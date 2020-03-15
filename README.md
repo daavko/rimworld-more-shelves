@@ -6,7 +6,7 @@ This mod adds 3 new variants of shelves:
 * A wider 3x1 shelf
 * A very wide 4x1 shelf
 
-All shelves behave the same as a vanilla shelf, and have the same default storage settings.
+All shelves behave the same as a vanilla shelf, except they have no default storage settings.
 <br>
 <br>
 ## Requirements
