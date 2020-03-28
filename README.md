@@ -14,7 +14,7 @@ None.
 <br>
 <br>
 ## Compatibility
-This mod is compatible with RimWorld 1.0.
+This mod is compatible with RimWorld 1.0 and RimWorld 1.1.
 <br>
 <br>
 ## Adding to an existing save
